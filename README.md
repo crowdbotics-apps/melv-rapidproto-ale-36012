@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-forgot-password](screens/forgot-password)
 - [screen-add-payment-method](screens/add-payment-method)
 - [screen-account-settings](screens/account-settings)
+- [screen-about-the-app](screens/about-the-app)
 
 # Getting started: Frontend
 
