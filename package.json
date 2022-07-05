@@ -35,6 +35,7 @@
     "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
     "@screens/token": "file:./screens/token/",
     "@screens/upload-media": "file:./screens/upload-media/",
+    "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",

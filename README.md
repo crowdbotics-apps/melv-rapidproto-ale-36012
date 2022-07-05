@@ -74,6 +74,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-billing](screens/billing)
 - [screen-support-faq](screens/support-faq)
 - [screen-settings](screens/settings)
+- [screen-welcome](screens/welcome)
 
 # Getting started: Frontend
 
