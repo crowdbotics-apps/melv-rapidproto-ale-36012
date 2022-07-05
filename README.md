@@ -72,6 +72,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-privacy-policy](screens/privacy-policy)
 - [screen-menu](screens/menu)
 - [screen-billing](screens/billing)
+- [screen-support-faq](screens/support-faq)
 
 # Getting started: Frontend
 

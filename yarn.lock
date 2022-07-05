@@ -1232,9 +1232,6 @@
 "@screens/account-settings@file:./screens/account-settings":
   version "1.0.0"
 
-"@screens/account-settings@file:./screens/account-settings/":
-  version "1.0.0"
-
 "@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
@@ -1260,6 +1257,9 @@
   version "1.0.0"
 
 "@screens/signup@file:./screens/signup":
+  version "1.0.0"
+
+"@screens/support-faq@file:./screens/support-faq/":
   version "1.0.0"
 
 "@screens/terms-and-conditions@file:./screens/terms-and-conditions":
