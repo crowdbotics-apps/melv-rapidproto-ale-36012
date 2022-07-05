@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-token](screens/token)
 - [screen-signup](screens/signup)
 - [react-native-login](modules/login)
+- [react-native-onboarding](modules/onboarding)
 
 # Getting started: Frontend
 
