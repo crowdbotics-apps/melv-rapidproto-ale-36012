@@ -1256,7 +1256,7 @@
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
-"@screens/settings@file:./screens/settings/":
+"@screens/settings@file:./screens/settings":
   version "1.0.0"
 
 "@screens/signup@file:./screens/signup":
@@ -1266,6 +1266,9 @@
   version "1.0.0"
 
 "@screens/terms-and-conditions@file:./screens/terms-and-conditions":
+  version "1.0.0"
+
+"@screens/terms-and-conditions@file:./screens/terms-and-conditions/":
   version "1.0.0"
 
 "@screens/token@file:./screens/token":
