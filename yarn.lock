@@ -1238,7 +1238,7 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
-"@screens/contact-us@file:./screens/contact-us/":
+"@screens/contact-us@file:./screens/contact-us":
   version "1.0.0"
 
 "@screens/forgot-password@file:./screens/forgot-password":
@@ -1248,6 +1248,9 @@
   version "1.0.0"
 
 "@screens/token@file:./screens/token":
+  version "1.0.0"
+
+"@screens/upload-media@file:./screens/upload-media/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
