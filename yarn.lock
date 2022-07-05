@@ -1244,7 +1244,10 @@
 "@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
-"@screens/profile@file:./screens/profile/":
+"@screens/privacy-policy@file:./screens/privacy-policy/":
+  version "1.0.0"
+
+"@screens/profile@file:./screens/profile":
   version "1.0.0"
 
 "@screens/signup@file:./screens/signup":

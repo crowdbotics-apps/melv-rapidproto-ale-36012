@@ -25,6 +25,7 @@
     "@screens/add-review": "file:./screens/add-review/",
     "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
+    "@screens/privacy-policy": "file:./screens/privacy-policy/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
