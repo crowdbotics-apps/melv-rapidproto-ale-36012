@@ -23,6 +23,7 @@
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/add-review": "file:./screens/add-review/",
+    "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/token": "file:./screens/token/",
