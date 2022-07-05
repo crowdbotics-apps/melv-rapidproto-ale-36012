@@ -29,6 +29,7 @@
     "@screens/menu": "file:./screens/menu/",
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
     "@screens/profile": "file:./screens/profile/",
+    "@screens/settings": "file:./screens/settings/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/support-faq": "file:./screens/support-faq/",
     "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
