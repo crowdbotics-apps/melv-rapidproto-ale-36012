@@ -1226,7 +1226,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/add-payment-method@file:./screens/add-payment-method/":
+"@screens/account-settings@file:./screens/account-settings/":
+  version "1.0.0"
+
+"@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
 "@screens/forgot-password@file:./screens/forgot-password":
