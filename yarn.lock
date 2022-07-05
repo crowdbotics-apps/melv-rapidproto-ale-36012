@@ -1238,13 +1238,16 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
+"@screens/billing@file:./screens/billing/":
+  version "1.0.0"
+
 "@screens/contact-us@file:./screens/contact-us":
   version "1.0.0"
 
 "@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
-"@screens/menu@file:./screens/menu/":
+"@screens/menu@file:./screens/menu":
   version "1.0.0"
 
 "@screens/privacy-policy@file:./screens/privacy-policy":
