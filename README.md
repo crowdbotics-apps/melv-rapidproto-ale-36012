@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-review-add](screens/add-review)
 - [screen-contact-us](screens/contact-us)
 - [screen-upload-media](screens/upload-media)
+- [screen-terms-and-conditions](screens/terms-and-conditions)
 
 # Getting started: Frontend
 

@@ -26,6 +26,7 @@
     "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/signup": "file:./screens/signup/",
+    "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
     "@screens/token": "file:./screens/token/",
     "@screens/upload-media": "file:./screens/upload-media/",
     "axios": "^0.21.1",
