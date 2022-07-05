@@ -1232,13 +1232,16 @@
 "@screens/account-settings@file:./screens/account-settings":
   version "1.0.0"
 
+"@screens/account-settings@file:./screens/account-settings/":
+  version "1.0.0"
+
 "@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
-"@screens/billing@file:./screens/billing/":
+"@screens/billing@file:./screens/billing":
   version "1.0.0"
 
 "@screens/contact-us@file:./screens/contact-us":
